@@ -4,6 +4,16 @@
       "id" : 0,
       "title": "First post!",
       "content" : "My first content!"
+    },
+    {
+      "id" : 1,
+      "title": "Second post!",
+      "content" : "My second content!"
+    },
+    {
+      "id" : 2,
+      "title": "Third post!",
+      "content" : "My third content!"
     }
   ],
   "comments" : [
